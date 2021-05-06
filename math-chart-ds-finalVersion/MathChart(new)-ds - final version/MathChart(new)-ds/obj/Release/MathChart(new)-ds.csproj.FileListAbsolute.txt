@@ -1,0 +1,9 @@
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\bin\Release\MathChart(new)-ds.exe.config
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\bin\Release\MathChart(new)-ds.exe
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\bin\Release\MathChart(new)-ds.pdb
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\obj\Release\MathChart(new)-ds.csprojResolveAssemblyReference.cache
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\obj\Release\MathChart_new__ds.Form1.resources
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\obj\Release\MathChart_new__ds.Properties.Resources.resources
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\obj\Release\MathChart(new)-ds.csproj.GenerateResource.Cache
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\obj\Release\MathChart(new)-ds.exe
+D:\c# projects\MathChart(new)-ds - final version\MathChart(new)-ds\obj\Release\MathChart(new)-ds.pdb
